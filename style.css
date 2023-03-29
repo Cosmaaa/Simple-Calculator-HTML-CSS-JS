@@ -24,8 +24,8 @@
     display: grid;
     grid-template-columns:repeat(4,66px);
 }
-.screen{
-    grid-column:span 4 ;
+input{
+    grid-column:span 4;
     height: 68px;
     width: 268px;
     box-shadow:inset -6px 6px 13px #e38f8f,
